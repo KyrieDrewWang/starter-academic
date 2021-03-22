@@ -30,8 +30,8 @@ experience:
     date_end: '2021-06-31'
     description:|2-
         Details:
-        * Major: Structure Engineering
-        * School: School of Civil Engineering
+        * Major-Structure Engineering
+        * School-School of Civil Engineering
         
   - title: Undergraduate
     company: University of Science and Technology Beijing
@@ -41,7 +41,7 @@ experience:
     date_end: '2018-06-31'
     description:|2-
         Details:
-        * Marjor: Foundation Engineering
-        * School: School of Civil Engineering
+        * Marjor-Foundation Engineering
+        * School-School of Civil Engineering
     
 ---
