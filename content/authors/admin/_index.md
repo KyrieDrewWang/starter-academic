@@ -73,3 +73,4 @@ Cheng Wang is seeking an opportunity for PhD.
 
 
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
