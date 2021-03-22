@@ -9,7 +9,7 @@ date: "2019-12-31T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo of the ANN
   focal_point: Smart
 
 # links:
