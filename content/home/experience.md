@@ -28,7 +28,7 @@ experience:
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2021-06-31'
-    description: >-
+    description: 
         * Major: Structure Engineering
         * School: School of Civil Engineering
         
@@ -38,7 +38,7 @@ experience:
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2018-06-31'
-    description: >-
+    description: 
         * Marjor: Foundation Engineering
         * School: School of Civil Engineering
     
