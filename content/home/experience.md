@@ -29,7 +29,6 @@ experience:
     date_start: '2018-09-01'
     date_end: '2021-06-31'
     description:Mayjor in Structure Engineering
-
   - title: Undergraduate
     company: University of Science and Technology Beijing
    # company_url: ''
