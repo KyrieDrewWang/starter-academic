@@ -28,10 +28,7 @@ experience:
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2021-06-31'
-    description:|2-:
-        Details:
-        * Major-Structure Engineering
-        * School-School of Civil Engineering
+    description:
         
   - title: Undergraduate
     company: University of Science and Technology Beijing
@@ -39,9 +36,6 @@ experience:
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2018-06-31'
-    description:|2-:
-        Details:
-        * Marjor-Foundation Engineering
-        * School-School of Civil Engineering
+    description:
     
 ---
