@@ -34,7 +34,7 @@ experience:
         * Majoring in Structure Engineering
         * School of Civil and Resource Engineering
         
-  - title: Professor
+  - title: Undergraduate
     company: University of Science and Technology Beijing
     company_url: ''
     location: Beijing
