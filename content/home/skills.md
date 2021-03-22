@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 80%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: python
 - description: 60%
-  icon: fa-code
+  icon: code
   icon_pack: fab
   name: C#
 - description: 70%
-  icon: fa-ruler-combined
+  icon: ruler-combined
   icon_pack: fab
   name: Adobe familes
 - description: 80%
-  icon: fa-vector-square
+  icon: vector-square
   icon_pack: fab
   name: finite element analysis
   
