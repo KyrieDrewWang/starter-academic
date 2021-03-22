@@ -1,15 +1,15 @@
 ---
-title: Neural Network Based Model Updating Substructure Pseudo-dynamic Testing Method
-summary: Apply the Neural Network to the model updating procedure of hybrid test
+title: Development of High-precision Three-dimensional Dynamic Deformation Measurement and Analysis System of Large Strcuture
+summary: Developing a 3-D vision-based uncontact deformation measuring system
 tags:
-- Artificial Intelligence
+- Computer vision
 date: "2019-12-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo of my study
   focal_point: Smart
 
 # links:
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: vision
 ---
 
-Substructure pseudo-dynamic hybrid simulation (SPDHS) combining the advantages of physical experiments and numerical simulation has become an important testing method for evaluating the dynamic responses of structures. Various parameter identification methods have been proposed for online model updating. However, if there is large model gap between the assumed numerical models and the real models, the parameter identification methods will cause large prediction errors. This study presents an ANN (artificial neural network) method based on forgetting factor. During the SPDHS of model updating, a dynamic sample window is formed in each loading step with forgetting factor to keep balance between the new samples and historical ones. The effectiveness and anti-noise ability of this method are evaluated by numerical analysis of a six-story frame structure with BRBs (Buckling Restrained Brace). One BRB is simulated in OpenFresco as the experimental substructure, while the rest is modeled in MATLAB. The results show that ANN is able to present more hysteresis behaviors that do not exist in the initial assumed numerical models. It is demonstrated that the proposed method has good adaptability and prediction accuracy of restoring force even under different loading histories.
+Vision-based displacement measuring methods, as a videogrammetric technology, has shown great application potential in the displacement response measurement in a shaking table test. Based on artificial targets, high-speed CMOS cameras and image processing algorithms, the displacement of the structure model can be obtained with no contact to the model surface. To address the limitation of the traditional displacement transducer and verify the precision of the un-contact vision-based displacement measurement method. Dynamic experiments of various amplitude, frequency and wave types were conducted using a high-precision electric shaking table in this paper. Computer vision and 3-D DIC method are used in the processing of the obtained images. In the computer-vision method, OTSU based Ellipse fitting and grayscale centroid target positioning methods are proposed, and the subpixel Harris method is applied as a comparison. Besides, a 3-D DIC method using the artificial targets is also applied to measure the 3-D displacement of the targets. The high-precision electric shaking table is used to simulate the earthquake action. Traditional displacement sensors, laser sensor, displacement transducer, accelerometer and seismometer gauge are used as comparison. Results verified the effectiveness and precision of the vision-based methods under different vibration.
