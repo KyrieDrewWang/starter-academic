@@ -46,10 +46,10 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:live:wangchengkyrie?call'
-  #- icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
+  - icon: google-scholar
+    icon_pack: ai
+    name: google scholar
+    link: 'https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7dcK89v4BaAC-ShMSp9ixtjPMY3JExeckulwjyHmd6z4gWpXe73hs9Ul8ZaSXzjtLwRJii3YgZzTH30vcT97X8iSZtBA&user=a8KGGsAAAAAJ'
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
