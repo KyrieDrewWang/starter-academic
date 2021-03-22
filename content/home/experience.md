@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postgraduate
-    University: Southeast University
+    company: Southeast University
    # company_url: ''
     location: Nanjing
     date_start: '2018-09-01'
@@ -34,7 +34,7 @@ experience:
         
   - title: Undergraduate
     company: University of Science and Technology Beijing
-    company_url: ''
+   # company_url: ''
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2018-06-31'
