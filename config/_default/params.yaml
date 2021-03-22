@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: wangchengkyrie@outlook.com
-phone: (+86)18696143267
+phone: 
 address:
   street: 2 Southeast University Road
   city: Nanjing
@@ -38,22 +38,22 @@ office_hours:
   - 'Weekends 10:00 to 20:00'
 appointment_url: ''
 contact_links:
-  - icon: twitter
+  - icon: weibo
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://weibo.com/u/2560728932'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'skype:live:wangchengkyrie?call'
+  #- icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
