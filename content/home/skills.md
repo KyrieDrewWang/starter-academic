@@ -22,15 +22,15 @@ feature:
   name: python
 - description: 60%
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: C#
 - description: 70%
   icon: ruler-combined
-  icon_pack: fab
+  icon_pack: fas
   name: Adobe familes
 - description: 80%
   icon: vector-square
-  icon_pack: fab
+  icon_pack: fas
   name: finite element analysis
   
 
