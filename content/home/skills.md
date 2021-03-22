@@ -16,18 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 80%
+  icon: fa-python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: python
+- description: 60%
+  icon: fa-code
+  icon_pack: fab
+  name: C#
+- description: 70%
+  icon: fa-ruler-combined
+  icon_pack: fab
+  name: Adobe familes
+- description: 80%
+  icon: fa-vector-square
+  icon_pack: fab
+  name: finite element analysis
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
