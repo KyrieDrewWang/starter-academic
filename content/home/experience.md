@@ -28,7 +28,7 @@ experience:
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2021-06-31'
-    description:
+    description:Mayjor in Structure Engineering
 
   - title: Undergraduate
     company: University of Science and Technology Beijing
@@ -36,6 +36,6 @@ experience:
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2018-06-31'
-    description:
+    description:Mayjor in Foundation Engineering
 
 ---
