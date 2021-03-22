@@ -14,29 +14,29 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'Southeast University'
+description: 'Postgraduate Student'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: wangchengkyrie@outlook.com
+phone: (+86)18696143267
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 2 Southeast University Road
+  city: Nanjing
+  region: Jiangsu
+  postcode: '211189'
+  country: China
+  country_code: CHN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '32.061409'
+  longitude: '118.799883'
+directions: School of Civil Engineering
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Weekdays 09:00 to 23:00'
+  - 'Weekends 10:00 to 20:00'
+appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
