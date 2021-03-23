@@ -32,6 +32,9 @@ education:
   - course: BSc in Civil Engineering
     institution: University of Science and Technology Beijing
     year: 2014
+  - course: IELTS
+    institution: 2021-2
+    year: 7.5
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
