@@ -26,7 +26,7 @@ author_notes:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication:  *under review (not published)*
+publication: in *under review (not published)*
 # publication_short: In *SSS*
 
 abstract: 
