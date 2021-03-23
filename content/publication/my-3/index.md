@@ -1,22 +1,23 @@
 ---
-title: "Prediction method of restoring force based on online AdaBoost regression tree algorithm in hybrid test"
+title: "Application and Analyzation of the Vision-Based Structure Model Displacement Measuring Method in Cassette Structure Shaking Table Experiment"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Yanhua Wang
-- Jing Lv
-- Jing WU
 - admin
+- Yan Feng
+- Bowen Dai
+- Gang Wu
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2019-10-11T00:00:00Z"
-doi: "https://doi.org/10.12989/sss.2020.26.1.063"
+date: "202-12-30T00:00:00Z"
+doi: "https://doi.org/10.1155/2020/8869935"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-04T00:00:00Z"
@@ -28,13 +29,12 @@ publishDate: "2020-05-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Smart Structures and Systems*
+publication: In *Advances in Civil Engineering*
 publication_short: In *SSS*
 
-abstract: Substructure pseudo-dynamic hybrid simulation (SPDHS) combining the advantages of physical experiments and numerical simulation has become an important testing method for evaluating the dynamic responses of structures. Various parameter identification methods have been proposed for online model updating. However, if there is large model gap between the assumed numerical models and the real models, the parameter identification methods will cause large prediction errors. This study presents an ANN (artificial neural network) method based on forgetting factor. During the SPDHS of model updating, a dynamic sample window is formed in each loading step with forgetting factor to keep balance between the new samples and historical ones. The effectiveness and anti-noise ability of this method are evaluated by numerical analysis of a six-story frame structure with BRBs (Buckling Restrained Brace). One BRB is simulated in OpenFresco as the experimental substructure, while the rest is modeled in MATLAB. The results show that ANN is able to present more hysteresis behaviors that do not exist in the initial assumed numerical models. It is demonstrated that the proposed method has good adaptability and prediction accuracy of restoring force even under different loading histories.
-
+abstract: In shaking table test of large cassette structure, story drift is an essential set of experimental data. Traditional method of displacement measurement is limited to problems such as necessary full contact with the structure model for installation of sensors, large work of installation, easily interfered by environment, etc. Non-contact displacement measurement method, such as optical measuring technology, can solve the above problems and serve as an effective supplementary method for traditional displacement measuring in shaking table test. This paper proposed a vison-based displacement measuring method. Pre-designed artificial targets which act as a sensor are installed on each floor of the cassette structure model. A high-speed industrial camera is used to acquire the series of the images of the artificial targets on the structure model during the shaking table test. A Python-OpenCV based structural calculation program combining computer vision and machine vision is developed to extract and calculate the displacement of the artificial targets from the series of the images acquired. The proposed method is applied in a shaking table test of a reduced-scale fifteen-floor reinforced concrete cassette structure model, in which the laser displacement meter and the seismic geophone are also applied as a comparison. The experimental results acquired by the proposed method is compared with the results acquired by laser displacement meter and the seismic geophone. The average error of the story drift obtained by the proposed vision-based measurement method is within 5% and is in good agreement with the laser displacement meter and the seismic geophone, which confirms the effectiveness of the proposed method.
 # Summary. An optional shortened abstract.
-summary: Apply the ANN to Model updating in hybrid test.
+summary: Apply the Computer Visioin to shaking table test.
 
 tags: []
 
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Simulation Procedure'
+  caption: 'Experiment'
   focal_point: ""
   preview_only: false
 
@@ -68,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- my-project-HybridTest
+- my-project-vision
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,13 +78,4 @@ projects:
 # slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
