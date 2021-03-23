@@ -28,7 +28,7 @@ publishDate: "2019-10-11T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication:  *Patent*
+publication: in *This is a Patent*
 # publication_short: In *SSS*
 
 
