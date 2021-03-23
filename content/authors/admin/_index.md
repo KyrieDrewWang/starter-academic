@@ -69,7 +69,7 @@ highlight_name: True
 ---
 
 Cheng Wang is seeking an opportunity for PhD.
-
+He is a self-motivated person who has great passion for academic research work. He is not only a persistent person, but also keeps curious about the un-solved scientific problems. 
 
 
 
