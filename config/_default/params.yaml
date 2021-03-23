@@ -40,7 +40,7 @@ appointment_url: ''
 contact_links:
   - icon: weibo
     icon_pack: fab
-    name: DM Me
+    name: Private Letter
     link: 'https://weibo.com/u/2560728932'
   - icon: skype
     icon_pack: fab
