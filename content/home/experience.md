@@ -31,7 +31,7 @@ experience:
     description: |2-
         Details:
         * PhD Candiatte in Photogrammetry and Remote Sensing
-
+        * --
   - title: Extension Study
     company: University of California, Berkeley
     company_url: 'https://www.berkeley.edu/'
@@ -41,7 +41,7 @@ experience:
     description: |2-
         Details:
         * Extension study in Computer Science
-        
+        * --
 
   - title: Postgraduate
     company: Southeast University
@@ -52,7 +52,7 @@ experience:
     description: |2-
         Details:
         * Master of Engineering in Disaster Prevention and Mitigation Engineering
-        
+        * --
   - title: Undergraduate
     company: University of Science and Technology Beijing
     company_url: 'https://www.ustb.edu.cn/'
@@ -62,4 +62,5 @@ experience:
     description: |2-
         Details:
         * Majoring in Foundation Engineering
+        * --
 ---
