@@ -34,7 +34,7 @@ experience:
     company: University of California, Berkeley
     company_url: 'https://www.berkeley.edu/'
     location: Berkeley
-    date_start: '2021-12-01'
+    date_start: '2021-12-31'
     date_end:   '2022-06-30'
     description: Extension Study in Computer Science
 
