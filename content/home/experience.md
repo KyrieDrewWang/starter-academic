@@ -28,7 +28,8 @@ experience:
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2021-06-31'
-    description: Structure Engineering
+    description: |2-
+        * Majoring in Structure Engineering
         
   - title: Undergraduate
     company: University of Science and Technology Beijing
