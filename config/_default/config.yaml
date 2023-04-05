@@ -21,7 +21,7 @@ removePathAccents: true
 ############################
 
 module:
-  proxy: https://goproxy.cn
+  # proxy: https://goproxy.cn
 
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
