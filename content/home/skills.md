@@ -16,21 +16,25 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+
 - description: 90%
   icon: python
   icon_pack: fab
   name: Python
+
 - description: 60%
   icon: code
   icon_pack: fas
   name: C+
+
 - description: 80%
   icon: microchip-ai
-  icon_pack: far
-  name: Pytorch
-- description: 50%
-  icon: code
   icon_pack: fas
+  name: Pytorch
+
+- description: 50%
+  icon: java
+  icon_pack: fab
   name: Java
   
 
