@@ -36,7 +36,7 @@ experience:
     location: Berkeley
     date_start: '2021-12-01'
     date_end:   '2022-06-30'
-    description: Extension Study in Photogrammetry and Remote Sensing
+    description: Extension Study in Computer Science
 
   - title: Postgraduate
     company: Southeast University
