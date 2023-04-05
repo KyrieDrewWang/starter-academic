@@ -14,22 +14,22 @@ organizations:
   url: http://main.sgg.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include LiDAR and Computer Vision.
+bio: My research interests include Deep Learning and Computer Vision.
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- LiDAR
-- Structure Monitoring
-- Ground Settelment Mesurement
+- Transformer Network 
+- Structural Health Monitoring
+- Flaw Identification
+- Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Civil Engineering
+  - course: MEng in Engineering
     institution: Southeast University
     year: 2018
-  - course: BSc in Civil Engineering
+  - course: BSc in Engineering
     institution: University of Science and Technology Beijing
     year: 2014
   - course: IELTS
