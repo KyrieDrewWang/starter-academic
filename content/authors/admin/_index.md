@@ -11,7 +11,7 @@ role: PhD candiatte
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Wuhan University
-  url: https://www.seu.edu.cn/
+  url: http://main.sgg.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include LiDAR and Computer Vision.
