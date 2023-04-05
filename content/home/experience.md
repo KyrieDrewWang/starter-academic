@@ -29,6 +29,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2021-06-31'
     description: |2-
+        Details:
         * Majoring in Structure Engineering
         
   - title: Undergraduate
