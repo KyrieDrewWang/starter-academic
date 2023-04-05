@@ -6,7 +6,7 @@ title: Cheng Wang
 superuser: true
 
 # Role/position/tagline
-role: PhD Candiatte
+role: PhD Candidante
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candiatte
+  - course: PhD Candidante
     institution: Wuhan University
     year: 2021.09
   - course: Extension Study
