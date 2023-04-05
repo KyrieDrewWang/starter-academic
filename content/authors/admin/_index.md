@@ -28,7 +28,7 @@ education:
   courses:
   - course: MEng in Engineering
     institution: Southeast University
-    year: 2018
+    year: 2018.09 -- 2021.06
   - course: BSc in Engineering
     institution: University of Science and Technology Beijing
     year: 2014
