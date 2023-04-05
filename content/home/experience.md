@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2, 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -24,7 +24,7 @@ date_format: Jan 2, 2006
 experience:
   - title: Postgraduate
     company: Southeast University
-    company_url: ''
+    company_url: 'https://www.seu.edu.cn/'
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2021-06-31'
