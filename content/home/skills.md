@@ -16,22 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 80%
+- description: 90%
   icon: python
   icon_pack: fab
-  name: python
+  name: Python
 - description: 60%
   icon: code
   icon_pack: fas
-  name: C#
-- description: 70%
-  icon: ruler-combined
-  icon_pack: fas
-  name: Adobe familes
+  name: C+
 - description: 80%
-  icon: vector-square
+  icon: brain-circuit
+  icon_pack: fass
+  name: Pytorch
+- description: 50%
+  icon: code
   icon_pack: fas
-  name: finite element analysis
+  name: Java
   
 
 # Uncomment to use emoji icons.
