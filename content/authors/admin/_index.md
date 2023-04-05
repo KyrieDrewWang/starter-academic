@@ -39,7 +39,7 @@ education:
     institution: University of Science and Technology Beijing
     year: 2014.09
   - course: IELTS
-    institution: 
+    institution: Listening:9.0, Reading:8.0, Writing:6.5, Speaking:6.0
     year: 7.5
 
 # Social/Academic Networking
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:wangchengkyrie@outlook.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wangche29126332
