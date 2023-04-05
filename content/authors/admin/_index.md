@@ -6,11 +6,11 @@ title: Cheng Wang
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate Student
+role: PhD candiatte
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Southeast University
+- name: Wuhan University
   url: https://www.seu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
