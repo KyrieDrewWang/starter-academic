@@ -26,7 +26,7 @@ experience:
     company: Wuhan University
     company_url: 'https://www.whu.edu.cn/'
     location: Wuhan
-    date_start: '2021-09-01'
+    date_start: '2022-09-01'
     date_end:   ''
     description: PhD Candidante in Photogrammetry and Remote Sensing
     
