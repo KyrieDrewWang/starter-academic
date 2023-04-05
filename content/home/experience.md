@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.seu.edu.cn/'
     location: Nanjing
     date_start: '2018-09-01'
-    date_end:   '2021-06-31'
+    date_end:   ''
     description: Master of Engineering in Disaster Prevention and Mitigation Engineering
         
   - title: Undergraduate
