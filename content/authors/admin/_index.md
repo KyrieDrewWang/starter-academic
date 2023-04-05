@@ -6,7 +6,7 @@ title: Cheng Wang
 superuser: true
 
 # Role/position/tagline
-role: PhD candiatte
+role: PhD Candiatte
 
 # Organizations/Affiliations to show in About widget
 organizations:
