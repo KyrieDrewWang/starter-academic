@@ -28,10 +28,7 @@ experience:
     location: Nanjing
     date_start: '2018-09-01'
     date_end: ''
-    description: |2-
-        Details:
-        
-        * School of Civil and Resource Engineering
+    description: School of Civil and Resource Engineering
         
   - title: Undergraduate
     company: University of Science and Technology Beijing
