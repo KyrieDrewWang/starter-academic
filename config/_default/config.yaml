@@ -21,7 +21,7 @@ removePathAccents: true
 ############################
 
 module:
-  # proxy: http://127.0.0.1:7890
+  # proxy: https://proxy.zyun.vip
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
