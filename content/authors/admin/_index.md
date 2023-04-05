@@ -28,12 +28,12 @@ education:
   courses:
   - course: MEng in Engineering
     institution: Southeast University
-    year: 2018.09 -- 2021.06
+    year: 2018.09
   - course: BSc in Engineering
     institution: University of Science and Technology Beijing
-    year: 2014
+    year: 2014.09
   - course: IELTS
-    institution: 2021-2
+    institution: 
     year: 7.5
 
 # Social/Academic Networking
@@ -44,15 +44,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: weibo
+- icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/wangche29126332
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://weibo.com/u/2560728932?is_all=1
 - icon: github
   icon_pack: fab
   link: https://github.com/KyrieDrewWang
+
 #- icon: linkedin
  # icon_pack: fab
  # link: https://www.linkedin.com/
