@@ -26,6 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD Candiatte
+    institution: Wuhan University
+    year: 2021.09
+  - course: Extension Study
+    institution: University of California, Berkeley
+    year: 2021.11
   - course: MEng in Engineering
     institution: Southeast University
     year: 2018.09
