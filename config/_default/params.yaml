@@ -14,42 +14,42 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'Wuhan University'
-description: 'PhD candiatte'
+org_name: ''
+description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: wangchengkyrie@outlook.com
-phone: 
-address:
-  street: Baoxiang Road
-  city: Shanghai
-  region: 
-  postcode: '000000'
-  country: China
-  country_code: CHN
-coordinates:
-  latitude: ''
-  longitude: ''
-directions: 
-office_hours:
-  - 'Weekdays 09:00 to 23:00'
-  - 'Weekends 10:00 to 20:00'
-appointment_url: ''
-contact_links:
-  - icon: weibo
-    icon_pack: fab
-    name: Private Letter
-    link: 'https://weibo.com/u/2560728932'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:live:wangchengkyrie?call'
-  - icon: google-scholar
-    icon_pack: ai
-    name: google scholar
-    link: 'https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7dcK89v4BaAC-ShMSp9ixtjPMY3JExeckulwjyHmd6z4gWpXe73hs9Ul8ZaSXzjtLwRJii3YgZzTH30vcT97X8iSZtBA&user=a8KGGsAAAAAJ'
+# email: wangchengkyrie@outlook.com
+# phone: 
+# address:
+#   street: Baoxiang Road
+#   city: Shanghai
+#   region: 
+#   postcode: '000000'
+#   country: China
+#   country_code: CHN
+# coordinates:
+#   latitude: ''
+#   longitude: ''
+# directions: 
+# office_hours:
+#   - 'Weekdays 09:00 to 23:00'
+#   - 'Weekends 10:00 to 20:00'
+# appointment_url: ''
+# contact_links:
+#   - icon: weibo
+#     icon_pack: fab
+#     name: Private Letter
+#     link: 'https://weibo.com/u/2560728932'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: 'skype:live:wangchengkyrie?call'
+#   - icon: google-scholar
+#     icon_pack: ai
+#     name: google scholar
+#     link: 'https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7dcK89v4BaAC-ShMSp9ixtjPMY3JExeckulwjyHmd6z4gWpXe73hs9Ul8ZaSXzjtLwRJii3YgZzTH30vcT97X8iSZtBA&user=a8KGGsAAAAAJ'
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
