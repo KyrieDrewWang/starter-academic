@@ -22,14 +22,6 @@ date_format: Jan 2, 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Candidante
-    company: Wuhan University
-    company_url: 'https://www.whu.edu.cn/'
-    location: Wuhan
-    date_start: '2022-09-01'
-    date_end:   ''
-    description: PhD Candidante in Photogrammetry and Remote Sensing
-    
 
   - title: Postgraduate
     company: Southeast University
