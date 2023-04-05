@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: C+
 - description: 80%
-  icon: fa-brain-circuit
+  icon: microchip-ai
   icon_pack: fas
   name: Pytorch
 - description: 50%
