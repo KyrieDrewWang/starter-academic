@@ -26,13 +26,13 @@ address:
   street: Baoxiang Road
   city: Shanghai
   region: 
-  postcode: '211189'
+  postcode: '000000'
   country: China
   country_code: CHN
 coordinates:
-  latitude: '32.061409'
-  longitude: '118.799883'
-directions: School of Civil Engineering
+  latitude: ''
+  longitude: ''
+directions: 
 office_hours:
   - 'Weekdays 09:00 to 23:00'
   - 'Weekends 10:00 to 20:00'
