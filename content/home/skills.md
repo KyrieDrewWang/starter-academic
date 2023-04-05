@@ -26,7 +26,7 @@ feature:
   name: C+
 - description: 80%
   icon: brain-circuit
-  icon_pack: fass
+  icon_pack: fas
   name: Pytorch
 - description: 50%
   icon: code
