@@ -31,7 +31,6 @@ experience:
     description: |2-
         Details:
         
-        * Majoring in Structure Engineering
         * School of Civil and Resource Engineering
         
   - title: Undergraduate
