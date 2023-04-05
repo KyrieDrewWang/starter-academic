@@ -26,7 +26,7 @@ feature:
   name: C+
 - description: 80%
   icon: microchip-ai
-  icon_pack: fas
+  icon_pack: far
   name: Pytorch
 - description: 50%
   icon: code
