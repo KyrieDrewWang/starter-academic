@@ -24,14 +24,11 @@ date_format: Jan 2, 2006
 experience:
   - title: Postgraduate
     company: Southeast University
-    company_url: ''
+    company_url: 'https://www.seu.edu.cn/'
     location: Nanjing
     date_start: '2018-09-01'
-    date_end: ''
-    description: |2-
-        Details:
-        
-        * Majoring in Structure Engineering
+    date_end: '2021-06-31'
+    description: Structure Engineering
         
   - title: Undergraduate
     company: University of Science and Technology Beijing
