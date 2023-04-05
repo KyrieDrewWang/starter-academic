@@ -28,7 +28,7 @@ experience:
     location: Wuhan
     date_start: '2021-09-01'
     date_end: '2025'
-    description: |1-
+    description: |2-
         Details:
         * PhD Candiatte in Photogrammetry and Remote Sensing
 
@@ -38,7 +38,7 @@ experience:
     location: Berkeley
     date_start: '2021-12-01'
     date_end: '2022-06-31'
-    description: |1-
+    description: |2-
         Details:
         * Extension study in Computer Science
         
@@ -49,7 +49,7 @@ experience:
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2021-06-31'
-    description: |1-
+    description: |2-
         Details:
         * Master of Engineering in Disaster Prevention and Mitigation Engineering
         
@@ -59,7 +59,7 @@ experience:
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2018-06-30'
-    description: |1-
+    description: |2-
         Details:
         * Majoring in Foundation Engineering
 ---
