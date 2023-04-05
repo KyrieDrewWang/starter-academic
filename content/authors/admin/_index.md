@@ -47,9 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wangche29126332
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://weibo.com/u/2560728932?is_all=1
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=a8KGGsAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/KyrieDrewWang
@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,9 +72,7 @@ email: ""
 highlight_name: True
 ---
 
-Cheng Wang is seeking an opportunity for PhD.
-He is a self-motivated person who has great passion for academic research work. He is not only a persistent person, but also keeps curious about the unsolved scientific problems. 
-
+Cheng Wang is a self-motivated person who has great passion for academic research work. He is now studying for his PhD in Wuhan University. His main research interests include structural health monitoring, deep learning, and flaw identification. He is seeking for collaboration or intership with AI-related labs to extend his research work. He is not only a persistent person, but also keeps curious about the unsolved scientific problems. Please drop me an email if you are interested about involving me in your research work.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
